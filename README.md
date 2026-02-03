@@ -37,7 +37,7 @@ To accurately measure the difference, I ran both solvers through 1,000 iteration
 | Approach | Avg. User Time (per run) | Complexity |
 | --- | --- | --- |
 | **Naive** | ~0.64 ms |  scan per check |
-| **Optimized** | **~0.54 ms** | ** bitwise check** |
+| **Optimized** | **~0.54 ms** | **bitwise check** |
 
 ---
 
